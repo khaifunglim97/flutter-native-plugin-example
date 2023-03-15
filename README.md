@@ -2,6 +2,10 @@
 
 A new Flutter plugin project.
 
+This project demonstrates how to build a Flutter plugin for Android and iOS
+that is capable of using external Android's AppCompatActivity and iOS's 
+UIViewController within a Flutter plugin.
+
 ## Getting Started
 
 This project is a starting point for a Flutter
